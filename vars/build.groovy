@@ -1,5 +1,5 @@
 def call(name){
-  echo "Hi ${name} , how are you"
+  echo "Hi , how are you"
 }
 
 def start(){

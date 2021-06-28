@@ -1,3 +1,3 @@
-def call(){
+def new(){
   echo "deploying the code"
 }
